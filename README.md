@@ -58,6 +58,6 @@ if you've any suggestion you can reach me here<a href="mailto: salimderradj99@gm
 
 بالتوفيق👍🏻✨
 
-اذا كانت لديك اي اقتراحات او ملاحظات يمكنك التواصل معي هنا <a href="mailto:ruba.yahya01@gmail.com">
+اذا كانت لديك اي اقتراحات او ملاحظات يمكنك التواصل معي هنا <a href="mailto:salimderradj99@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=ruba.yahya01@gmail.com&color=white&style=flat&logo=gmail" />
 </a>
